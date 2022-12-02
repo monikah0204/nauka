@@ -17,6 +17,7 @@ public class Main {
         for (int i = 1; i <= n; i++) {
             result = result * i;
         }
+        System.out.println("jakieś zmiany");
         return result;
     }
 
